@@ -1,6 +1,7 @@
 # StudentDatabaseApp
 Project 2
-<br> <h1>Scenario: You are a Database Administrator for a university and need to create an application to manage student enrollment and balance.</h1>
+<br> <h1>Scenario: You are a Database Administrator for a university and need to create an application to manage student enrollment and balance.</h1><hr>
+
 
 <h3> My Application should do the following.</h3>
 <ul>
@@ -19,3 +20,6 @@ Project 2
 <li>The student should be able to view their balance and pay the tuition</li>
 <li>To see the status of the student, we should see their name , ID , courses enrolled , and balance.</li>
 </ul>
+<br><hr>
+<h4>Java , VSCODE IDE </h4>
+
