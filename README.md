@@ -14,6 +14,7 @@ Project 2
 <li>Chemistry: 101</li>
 <li>Computer Science: 101</li>
 </li>
+<br>
 <li>Each course costs 4,500 RS to enroll</li>
 <li>The student should be able to view their balance and pay the tuition</li>
 <li>To see the status of the student, we should see their name , ID , courses enrolled , and balance.</li>
