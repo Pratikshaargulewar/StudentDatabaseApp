@@ -1,3 +1,5 @@
+/*Make a folder in your system after that clone your github repository with your folder . */
+
 package StudentDatabaseApp;
 import java.util.Scanner;
 public class Student {
